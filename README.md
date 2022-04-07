@@ -1,7 +1,7 @@
 ### Olá 👋 I'm Rita! ✨🚲
 
 A Biologist, computational biologist in the making currently taking my masters degree at University of Porto. 
-I enjoy all things science and nature, learning and developing new skills while being a full-time geek. Passionate about figuring out how things work
+I enjoy all things science and nature, learning and developing new skills while being a full-time geek. Passionate about figuring out how things work and solving problems.
 
 ### "Make things, learn stuff" - Hank Green 
 
