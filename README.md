@@ -1,7 +1,6 @@
 ### Olá 👋 I'm Rita! ✨🚲
 
-A computational biologist in the making currently taking my masters degree at University of Porto. 
-I enjoy all things science and nature, learning and developing new skills while being a full-time geek. Passionate about figuring out how things work and solving problems.
+I'm a biologist turned into a coding & data nerd. I enjoy all things science and nature, learning and developing new skills while being a full-time geek. Passionate about figuring out how things work and getting valuable insights out of data. .
 
 ### "Make things, learn stuff" - Hank Green 
 
